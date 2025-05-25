@@ -1,0 +1,19 @@
+<map id="/home/runner/work/wut/wut/include/coreinit/bsp.h" name="/home/runner/work/wut/wut/include/coreinit/bsp.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,5,305,45"/>
+<area shape="rect" id="Node000002" href="$wut_8h.html" title=" " alt="" coords="179,93,237,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,46,211,79,205,79,205,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,133,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,121,105,163,103,158,185,116"/>
+<area shape="rect" id="Node000004" href="$wut__types_8h.html" title=" " alt="" coords="157,167,259,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,119,211,153,205,153,205,119"/>
+<area shape="rect" id="Node000009" href="$wut__rplwrap_8h.html" title=" " alt="" coords="283,167,397,192"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="230,116,308,158,305,162,228,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="21,240,91,265"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="185,194,94,237,92,232,182,190"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="116,240,199,265"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="202,194,176,230,171,227,197,191"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="223,240,297,265"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="219,191,246,227,241,230,214,194"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="322,240,409,265"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="234,190,328,232,326,237,232,194"/>
+</map>

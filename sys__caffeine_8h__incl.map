@@ -1,0 +1,19 @@
+<map id="/home/runner/work/wut/wut/include/nn/ccr/sys_caffeine.h" name="/home/runner/work/wut/wut/include/nn/ccr/sys_caffeine.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,5,295,60"/>
+<area shape="rect" id="Node000002" href="$wut_8h.html" title=" " alt="" coords="179,108,237,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,60,211,94,205,94,205,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,133,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,136,105,177,103,173,185,131"/>
+<area shape="rect" id="Node000004" href="$wut__types_8h.html" title=" " alt="" coords="157,181,259,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,134,211,168,205,168,205,134"/>
+<area shape="rect" id="Node000009" href="$wut__rplwrap_8h.html" title=" " alt="" coords="283,181,397,207"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="230,131,308,172,305,177,228,136"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="21,255,91,280"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="185,209,94,251,92,246,182,204"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="116,255,199,280"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="202,209,176,245,171,242,197,205"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="223,255,297,280"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="219,205,246,242,241,245,214,209"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="322,255,409,280"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="234,204,328,247,326,251,232,209"/>
+</map>
