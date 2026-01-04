@@ -12,6 +12,19 @@
 extern "C" {
 #endif
 
+typedef struct GX2DispatchComputeParam GX2DispatchComputeParam;
+
+struct GX2DispatchComputeParam
+{
+   uint32_t worksizeX;
+   uint32_t worksizeY;
+   uint32_t worksizeZ;
+};
+WUT_CHECK_SIZE(GX2DispatchComputeParam, 0x0c);
+WUT_CHECK_OFFSET(GX2DispatchComputeParam, 0x00, worksizeX);
+WUT_CHECK_OFFSET(GX2DispatchComputeParam, 0x04, worksizeY);
+WUT_CHECK_OFFSET(GX2DispatchComputeParam, 0x08, worksizeZ);
+
 void
 GX2SetAttribBuffer(uint32_t index,
                    uint32_t size,
@@ -58,6 +71,9 @@ GX2DrawIndexedImmediateEx(GX2PrimitiveMode mode,
 
 void
 GX2SetPrimitiveRestartIndex(uint32_t index);
+
+void
+GX2DispatchCompute(const GX2DispatchComputeParam *params);
 
 #ifdef __cplusplus
 }
